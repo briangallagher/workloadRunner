@@ -1,0 +1,26 @@
+{
+  "name": "workloadRunner",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/briangallagher/workloadRunner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briangallagher/workloadRunner/issues"
+  },
+  "homepage": "https://github.com/briangallagher/workloadRunner",
+  "dependencies": {
+    "async": "^2.1.4",
+    "autocannon": "^0.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0",
+    "timestring": "^3.2.0"
+  }
+}
